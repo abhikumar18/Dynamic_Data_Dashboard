@@ -1,9 +1,10 @@
 import './App.css';
+import HorizontalChart from './chart-horizontal';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <HorizontalChart />
     </div>
   );
 }
